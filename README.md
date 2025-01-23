@@ -19,7 +19,7 @@ Asegúrate de tener instalado lo siguiente en tu equipo:
 Clona este repositorio en tu máquina local ejecutando el siguiente comando:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/scar-1195/evaluation-test.git
 ```
 
 ### Paso 2: Instalar los módulos de Node
